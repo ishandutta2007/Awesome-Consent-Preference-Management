@@ -5,7 +5,7 @@
 <p center>
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Consent-Preference-Management/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Consent-Preference-Management?style=flat-square&color=gold" alt="GitHub Stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Consent-Preference-Management/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Consent-Preference-Management?style=flat-square&color=gold" alt="GitHub_Stars"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Consent-Preference-Management/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Consent-Preference-Management?style=flat-square&color=blue" alt="GitHub Forks"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Consent-Preference-Management/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Consent-Preference-Management?style=flat-square" alt="License"/></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -52,40 +52,40 @@ Below is a curated comparison of leading commercial Consent Management Platforms
 
 Open-source consent tools provide full ownership over user data, zero vendor lock-in, and cost-effective compliance for developer-centric stacks. Below is a curated list of top open-source projects, **sorted by GitHub stargazers count (descending)**:
 
-- **[cookieconsent](https://github.com/orestbida/cookieconsent)** [![GitHub stars](https://img.shields.io/github/stars/orestbida/cookieconsent?style=social&color=white)](https://github.com/orestbida/cookieconsent/stargazers)  
+- **[cookieconsent](https://github.com/orestbida/cookieconsent)** [![GitHub_Stars](https://img.shields.io/github/stars/orestbida/cookieconsent?style=social&color=white)](https://github.com/orestbida/cookieconsent/stargazers)  
   *Lightweight, standalone vanilla JavaScript cookie consent plugin featuring modular consent categories, multi-language support, dark mode, and Google Consent Mode v2 support.*
 
-- **[Osano CookieConsent](https://github.com/osano/cookieconsent)** [![GitHub stars](https://img.shields.io/github/stars/osano/cookieconsent?style=social&color=white)](https://github.com/osano/cookieconsent/stargazers)  
+- **[Osano CookieConsent](https://github.com/osano/cookieconsent)** [![GitHub_Stars](https://img.shields.io/github/stars/osano/cookieconsent?style=social&color=white)](https://github.com/osano/cookieconsent/stargazers)  
   *Popular open-source JavaScript library for building customizable cookie consent banners with simple callback-driven script execution control.*
 
-- **[c15t](https://github.com/c15t/c15t)** [![GitHub stars](https://img.shields.io/github/stars/c15t/c15t?style=social&color=white)](https://github.com/c15t/c15t/stargazers)  
+- **[c15t](https://github.com/c15t/c15t)** [![GitHub_Stars](https://img.shields.io/github/stars/c15t/c15t?style=social&color=white)](https://github.com/c15t/c15t/stargazers)  
   *Modern, developer-first open-source consent management framework equipped with automatic script loaders, Consent Mode v2 patterns, and flexible UI adapters.*
 
-- **[Klaro](https://github.com/kiprotect/klaro)** [![GitHub stars](https://img.shields.io/github/stars/kiprotect/klaro?style=social&color=white)](https://github.com/kiprotect/klaro/stargazers)  
+- **[Klaro](https://github.com/kiprotect/klaro)** [![GitHub_Stars](https://img.shields.io/github/stars/kiprotect/klaro?style=social&color=white)](https://github.com/kiprotect/klaro/stargazers)  
   *Privacy-friendly, GDPR-focused consent manager providing self-hosted consent banners, dynamic script blocking, service purpose grouping, and clean zero-dependency design (BSD-3).*
 
-- **[spatie/laravel-cookie-consent](https://github.com/spatie/laravel-cookie-consent)** [![GitHub stars](https://img.shields.io/github/stars/spatie/laravel-cookie-consent?style=social&color=white)](https://github.com/spatie/laravel-cookie-consent/stargazers)  
+- **[spatie/laravel-cookie-consent](https://github.com/spatie/laravel-cookie-consent)** [![GitHub_Stars](https://img.shields.io/github/stars/spatie/laravel-cookie-consent?style=social&color=white)](https://github.com/spatie/laravel-cookie-consent/stargazers)  
   *Spatie's popular open-source Laravel package for quickly integrating compliant cookie consent dialogs into PHP/Laravel applications.*
 
-- **[tarteaucitron.js](https://github.com/AmauriC/tarteaucitron.js)** [![GitHub stars](https://img.shields.io/github/stars/AmauriC/tarteaucitron.js?style=social&color=white)](https://github.com/AmauriC/tarteaucitron.js/stargazers)  
+- **[tarteaucitron.js](https://github.com/AmauriC/tarteaucitron.js)** [![GitHub_Stars](https://img.shields.io/github/stars/AmauriC/tarteaucitron.js?style=social&color=white)](https://github.com/AmauriC/tarteaucitron.js/stargazers)  
   *Comprehensive French-origin consent manager with native integrations for over 100 tracking services, Google Consent Mode v2, and CNIL compliance directives.*
 
-- **[GDPR Transparency & Consent Framework](https://github.com/InteractiveAdvertisingBureau/GDPR-Transparency-and-Consent-Framework)** [![GitHub stars](https://img.shields.io/github/stars/InteractiveAdvertisingBureau/GDPR-Transparency-and-Consent-Framework?style=social&color=white)](https://github.com/InteractiveAdvertisingBureau/GDPR-Transparency-and-Consent-Framework/stargazers)  
+- **[GDPR Transparency & Consent Framework](https://github.com/InteractiveAdvertisingBureau/GDPR-Transparency-and-Consent-Framework)** [![GitHub_Stars](https://img.shields.io/github/stars/InteractiveAdvertisingBureau/GDPR-Transparency-and-Consent-Framework?style=social&color=white)](https://github.com/InteractiveAdvertisingBureau/GDPR-Transparency-and-Consent-Framework/stargazers)  
   *IAB Tech Lab reference implementations, specifications, and binary string decoders/encoders for the industry-standard TCF v2.2 specification.*
 
-- **[react-cookie-consent](https://github.com/Mastermindzh/react-cookie-consent)** [![GitHub stars](https://img.shields.io/github/stars/Mastermindzh/react-cookie-consent?style=social&color=white)](https://github.com/Mastermindzh/react-cookie-consent/stargazers)  
+- **[react-cookie-consent](https://github.com/Mastermindzh/react-cookie-consent)** [![GitHub_Stars](https://img.shields.io/github/stars/Mastermindzh/react-cookie-consent?style=social&color=white)](https://github.com/Mastermindzh/react-cookie-consent/stargazers)  
   *Small, highly customizable React component for rendering accessible cookie consent banners with built-in cookie state management.*
 
-- **[whitecube/laravel-cookie-consent](https://github.com/whitecube/laravel-cookie-consent)** [![GitHub stars](https://img.shields.io/github/stars/whitecube/laravel-cookie-consent?style=social&color=white)](https://github.com/whitecube/laravel-cookie-consent/stargazers)  
+- **[whitecube/laravel-cookie-consent](https://github.com/whitecube/laravel-cookie-consent)** [![GitHub_Stars](https://img.shields.io/github/stars/whitecube/laravel-cookie-consent?style=social&color=white)](https://github.com/whitecube/laravel-cookie-consent/stargazers)  
   *Flexible Laravel package allowing developers to declare, organize, and request user cookie consents in full compliance with European regulations.*
 
-- **[Cookies-EU-banner](https://github.com/Alex-D/Cookies-EU-banner)** [![GitHub stars](https://img.shields.io/github/stars/Alex-D/Cookies-EU-banner?style=social&color=white)](https://github.com/Alex-D/Cookies-EU-banner/stargazers)  
+- **[Cookies-EU-banner](https://github.com/Alex-D/Cookies-EU-banner)** [![GitHub_Stars](https://img.shields.io/github/stars/Alex-D/Cookies-EU-banner?style=social&color=white)](https://github.com/Alex-D/Cookies-EU-banner/stargazers)  
   *Ultra-lightweight (~1KB) vanilla JS script designed to manage cookie consent banner display and conditional tracking script execution under GDPR.*
 
-- **[use-cookie-consent](https://github.com/bring-shrubbery/use-cookie-consent)** [![GitHub stars](https://img.shields.io/github/stars/bring-shrubbery/use-cookie-consent?style=social&color=white)](https://github.com/bring-shrubbery/use-cookie-consent/stargazers)  
+- **[use-cookie-consent](https://github.com/bring-shrubbery/use-cookie-consent)** [![GitHub_Stars](https://img.shields.io/github/stars/bring-shrubbery/use-cookie-consent?style=social&color=white)](https://github.com/bring-shrubbery/use-cookie-consent/stargazers)  
   *Minimalist React hook (~1KB gzipped) for managing consent state across React, Next.js, and Gatsby web applications.*
 
-- **[consent-manager](https://github.com/segmentio/consent-manager)** [![GitHub stars](https://img.shields.io/github/stars/segmentio/consent-manager?style=social&color=white)](https://github.com/segmentio/consent-manager/stargazers)  
+- **[consent-manager](https://github.com/segmentio/consent-manager)** [![GitHub_Stars](https://img.shields.io/github/stars/segmentio/consent-manager?style=social&color=white)](https://github.com/segmentio/consent-manager/stargazers)  
   *Segment's drop-in consent manager plugin for Analytics.js, allowing websites to selectively enable analytics destinations based on explicit user consent.*
 
 ---
@@ -105,7 +105,7 @@ Contributions are welcome! To add or update a tool:
 
 1. Fork the repository.
 2. Update [`README.md`](file:///C:/Users/ishan/Documents/Projects/Awesome-Consent-Preference-Management/README.md) following the existing tabular / badge formatting.
-3. Ensure entries include verifiable pricing, free tier limits, or repository star counts.
+3. Ensure entries include verifiable pricing, free tier limits, or repository Stars_Counts.
 4. Submit a Pull Request with a clear description of your changes.
 
 Check out [Awesome Awesome Awesome](https://github.com/ishandutta2007/Awesome-Awesome-Awesome) for more curated lists!
